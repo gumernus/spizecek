@@ -8,7 +8,7 @@ console.log(client.user.username, "is online")
 })
 
 client.on("message", (message) => {
-if(message.author.tag === client.user.tag){
+if(message.author.bot){
     return
 }
 if(badwords.some(badword=>message.content.toLowerCase().includes(badword))){
