@@ -1,5 +1,5 @@
 <div align="center">
-    <a href= "https://cdn.discordapp.com/app-icons/820308618406658068/e686d411bf1f477f08f0f1bdcf65dd51.png?size=1024" height="200" width="200"></a>
+    <a href="https://cdn.discordapp.com/"><img src="https://cdn.discordapp.com/app-icons/820308618406658068/e686d411bf1f477f08f0f1bdcf65dd51.png" height="200" width="200"></a>
     <h1>Spizecek</h1>
     <strong>Discord bot for moderating and ranking users.</strong><br><br>
 </div>
