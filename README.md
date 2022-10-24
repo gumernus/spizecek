@@ -22,5 +22,5 @@ node app.js
 ```
 
 ## More info
-> This bot can moderate the entire server itself with great response time and without bugs :).
+> This bot can moderate the entire server itself with great response time and without bugs :). (big lie)
 
